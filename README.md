@@ -68,5 +68,3 @@
 
 </div>
 
-
-![Gato Hacker GIF](https://media.tenor.com/7z5u4V6b0H4AAAAC/hacker-cat-hacker.gif)
