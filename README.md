@@ -41,6 +41,16 @@
   <!-- MBDyn -->
   <img src="https://img.shields.io/badge/MBDyn-0d1117?style=for-the-badge&logoColor=00FFFF&labelColor=0d1117" />
 
+    <!-- Gazebo -->
+  <img src="https://img.shields.io/badge/Gazebo-0d1117?style=for-the-badge&logo=gazebo&logoColor=FF00FF" />
+
+  <!-- Rviz -->
+  <img src="https://img.shields.io/badge/Rviz-0d1117?style=for-the-badge&logo=ros&logoColor=00FFFF" />
+
+  <!-- MATLAB -->
+  <img src="https://img.shields.io/badge/MATLAB-0d1117?style=for-the-badge&logo=mathworks&logoColor=FF00FF" />
+
+
 </div>
 
 ---
