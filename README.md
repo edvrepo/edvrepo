@@ -3,7 +3,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00FFEA&center=true&vCenter=true&lines=EDVREPO;Robotics+Developer;AI+Engineer;Neural+Dreamer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00FFEA&center=true&vCenter=true&lines=EDVREPO;Robotics+Developer;MCE+AI+Engineer;Neural+Dreamer" />
   </a>
 </p>
 
@@ -70,17 +70,17 @@
 </div>
 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TUUSUARIO&theme=tokyonight" />
+</p>
 
-### 🧠 About Me
-- 🚀 Building **autonomous robots** & AI agents  
-- 💀 Obsessed with **Cyberpunk aesthetics**  
-- 🔥 Contributor to **AI, ML, Robotics, Deep Learning**
 
----
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=REPO1&theme=tokyonight&bg_color=0d1117&title_color=00FFEA" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=REPO2&theme=tokyonight&bg_color=0d1117&title_color=00FFEA" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=REPO3&theme=tokyonight&bg_color=0d1117&title_color=00FFEA" />
+</p>
 
-### 🕶️ Cyberpunk Quote
-> *“The future is already here — it’s just not evenly distributed.”* – William Gibson
 
 <!--
 **edvrepo/edvrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
