@@ -70,17 +70,6 @@
 </div>
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TUUSUARIO&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=REPO1&theme=tokyonight&bg_color=0d1117&title_color=00FFEA" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=REPO2&theme=tokyonight&bg_color=0d1117&title_color=00FFEA" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=REPO3&theme=tokyonight&bg_color=0d1117&title_color=00FFEA" />
-</p>
-
 
 <!--
 **edvrepo/edvrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
