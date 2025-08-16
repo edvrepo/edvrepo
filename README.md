@@ -14,12 +14,28 @@
 </p>
 
 ### ⚔️ Tech Arsenal
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FFEA" />
+
+<p align="center">
+  <!-- Texto animado tipo cyberpunk -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFEA&center=true&vCenter=true&lines=Linux+%7C+Bash+%7C+C+%7C+C+++%7C+ROS2+%7C+ML+%7C+React+%7C+Flask+%7C+Flutter+%7C+CAD+SolidWorks" />
+  </a>
+</p>
+
+<!-- Panel de badges con fondo oscuro y borde neón -->
+<div align="center" style="background-color:#0d1117; border: 2px solid #00FFEA; border-radius:15px; padding:15px; display:inline-block;">
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FFEA" />
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=00FFEA" />
+  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00FFEA" />
+  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FFEA" />
   <img src="https://img.shields.io/badge/ROS2-0d1117?style=for-the-badge&logo=ros&logoColor=ff0066" />
   <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=fcee0c" />
   <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ff0066" />
-</p>
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FFEA" />
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00FFEA" />
+  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00FFEA" />
+  <img src="https://img.shields.io/badge/SolidWorks-0d1117?style=for-the-badge&logo=solidworks&logoColor=00FFEA" />
+</div>
 
 ---
 
