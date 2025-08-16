@@ -41,7 +41,7 @@
   <!-- MBDyn -->
   <img src="https://img.shields.io/badge/MBDyn-0d1117?style=for-the-badge&logoColor=00FFFF&labelColor=0d1117" />
 
-    <!-- Gazebo -->
+  <!-- Gazebo -->
   <img src="https://img.shields.io/badge/Gazebo-0d1117?style=for-the-badge&logo=gazebo&logoColor=FF00FF" />
 
   <!-- Rviz -->
