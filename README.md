@@ -54,11 +54,19 @@
 </div>
 
 ---
-### 📊 Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFEA&icon_color=ff0066&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFEA&icon_color=FF00FF&text_color=00FFFF" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFEA&ring=FF00FF&fire=00FFFF&currStreakNum=00FFEA&currStreakLabel=FF00FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFEA&text_color=00FFFF" />
+</p>
 
 
 ### 🧠 About Me
