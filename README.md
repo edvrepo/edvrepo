@@ -22,10 +22,27 @@
   <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FFEA" />
   <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00FFEA" />
   <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00FFEA" />
-  <img src="https://img.shields.io/badge/SolidWorks-0d1117?style=for-the-badge&logo=solidworks&logoColor=00FFEA" />
 </div>
 
 ---
+
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; background-color:#0d1117; border:2px solid #00FFEA; border-radius:15px; padding:15px;">
+  
+  <!-- SolidWorks -->
+  <img src="https://img.shields.io/badge/SolidWorks-0d1117?style=for-the-badge&logo=solidworks&logoColor=00FFEA" />
+
+  <!-- FreeCAD -->
+  <img src="https://img.shields.io/badge/FreeCAD-0d1117?style=for-the-badge&logo=freecad&logoColor=00FFEA" />
+
+  <!-- Salome-Meca -->
+  <img src="https://img.shields.io/badge/Salome--Meca-0d1117?style=for-the-badge&logoColor=FF00FF&labelColor=0d1117" />
+
+  <!-- MBDyn -->
+  <img src="https://img.shields.io/badge/MBDyn-0d1117?style=for-the-badge&logoColor=00FFFF&labelColor=0d1117" />
+
+</div>
+
 ---
 ### 📊 Stats
 <p align="center">
