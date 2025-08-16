@@ -1,26 +1,17 @@
 
 <!-- Banner -->
-
-
-<h1 align="center">
-  ⚡ 𝙲𝚈𝙱𝙴𝚁𝙿𝚄𝙽𝙺 𝚁𝙾𝙱𝙾𝚃𝙸𝙲𝚂 ⚡
-</h1>
-
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00FFEA&center=true&vCenter=true&lines=AI+Engineer;Robotics+Developer;Neural+Dreamer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00FFEA&center=true&vCenter=true&lines=EDVREPO;Robotics+Developer;AI+Engineer;Neural+Dreamer" />
   </a>
 </p>
 
 ---
-
-### 🧠 About Me
-- 🚀 Building **autonomous robots** & AI agents  
-- 💀 Obsessed with **Cyberpunk aesthetics**  
-- 🔥 Contributor to **AI, ML, Robotics, Deep Learning**
-
----
+### 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFEA&icon_color=ff0066&text_color=FFFFFF" />
+</p>
 
 ### ⚔️ Tech Arsenal
 <p>
@@ -32,11 +23,14 @@
 
 ---
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFEA&icon_color=ff0066&text_color=FFFFFF" />
-</p>
 
+
+### 🧠 About Me
+- 🚀 Building **autonomous robots** & AI agents  
+- 💀 Obsessed with **Cyberpunk aesthetics**  
+- 🔥 Contributor to **AI, ML, Robotics, Deep Learning**
+
+---
 ---
 
 ### 🕶️ Cyberpunk Quote
