@@ -2,7 +2,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00FFEA&center=true&vCenter=true&lines=EDVREPO;Robotics+Developer;MCE+AI+Engineer;Neural+Dreamer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00FFEA&center=true&vCenter=true&lines=EDOMINV;Robotics+Developer;MCE+AI+Engineer;Neural+Dreamer" />
   </a>
 </p>
 
